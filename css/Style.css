@@ -121,6 +121,9 @@ body {
   footer p {
     margin: 0;
   }
+
+  /*############### Divs ###############*/
+ 
   
   @media (max-width: 767px) {
     .producto {
@@ -130,7 +133,7 @@ body {
 
 /*#################### FOOTER ##################*/
 footer {
-    background: rgb(70, 70, 70);
+    background: rgb(31, 26, 26);
     padding: 50px 0px 20px 0px;
     overflow: hidden;
     display: flex;
@@ -146,7 +149,7 @@ footer {
    }
 
    .partFooter img{
-    width: 60%;
+    width: 100%;
    }
 
    .partFooter h4{
@@ -169,7 +172,7 @@ footer {
    .contact > i {
     float: left;
     margin: 0 0 0 10px;
-    color: #800000;
+    color: #ffffff;
     border: 1px solid #ffffff;
     border-radius: 50%;
     height: 30px;
@@ -190,7 +193,7 @@ footer {
 
    .partFooter > a {
     display: block;
-    color: #800000;
+    color: #ffffff;
     text-decoration: none;
     margin-bottom: 10px;
     font-weight: 500;
@@ -209,7 +212,7 @@ footer {
     font-size: 20px;
     color: #0004ff34;
     display: inline-block;
-    border: 2px solid #800000;
+    border: 2px solid #ffffff;
     border-radius: 50%;
     width: 38px;
     height: 38px;
@@ -227,6 +230,16 @@ footer {
    }
 
   
+    h2.Clubes {
+      display: block;
+      font-size: 1.5em;
+      margin-block-start: 0.83em;
+      margin-block-end: 0.83em;
+      margin-inline-start: 0px;
+      margin-inline-end: 0px;
+      font-weight: bold;
+  }
+ 
  
   
   
